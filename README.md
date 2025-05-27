@@ -207,31 +207,3 @@ Sphere OpenGL:
 
 unrealistic.dev (Change CMake working directory):  
 <https://unrealistic.dev/posts/setting-debug-parameters-with-cmake-tools-for-visual-studio>
-
-## Contributors on the WebGL port
-
-Quentin MOREL:
-
-- @Im-Rises
-- <https://github.com/Im-Rises>
-
-[![GitHub contributors](https://contrib.rocks/image?repo=Im-Rises/physical-engine-webgl)](https://github.com/Im-Rises/physical-engine-webgl/graphs/contributors)
-
-## Contributors on the original project
-
-Quentin MOREL:
-
-- @Im-Rises
-- <https://github.com/Im-Rises>
-
-Gabriel REBOUL:
-
-- @spiryti
-- <https://github.com/spiryti>
-
-Clémence CLAVEL:
-
-- @clemos38
-- <https://github.com/clemos38>
-
-[![GitHub contributors](https://contrib.rocks/image?repo=Im-Rises/PhysicalEngine)](https://github.com/Im-Rises/PhysicalEngine/graphs/contributors)
