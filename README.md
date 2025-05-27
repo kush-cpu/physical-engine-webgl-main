@@ -12,12 +12,10 @@
 
 This is a simple physics engine written in C++ using Glad, GLFW, OpenGl3 and Dear ImGui.
 
-This repository is a port of the [PhysicalEngine](https://github.com/Im-Rises/physical-engine-webgl) project to WebGL2.
-
 ## 🚀🚀 [You can test it online here](https://im-rises.github.io/physical-engine-webgl/) 🚀🚀
 
 > **Note**  
-> The project is made as an educational project to learn more about physics and game engine development.
+> The project is made as an educational project to learn more about physics and game engine development and is still in WIP.
 
 ## Features
 
